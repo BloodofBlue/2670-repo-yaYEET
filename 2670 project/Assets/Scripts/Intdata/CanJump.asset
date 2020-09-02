@@ -10,6 +10,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3a757d14346231b42bb29a2746eb5ced, type: 3}
-  m_Name: New Intdata
+  m_Name: CanJump
   m_EditorClassIdentifier: 
   value: 0

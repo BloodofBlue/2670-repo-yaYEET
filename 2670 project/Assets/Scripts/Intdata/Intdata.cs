@@ -6,4 +6,14 @@ using UnityEngine;
 public class Intdata : ScriptableObject
 {
     public int value;
+
+    public void ChangeValue(int number)
+    {
+        value += number;
+    }
+
+    public void SetValue(int number)
+    {
+        value = number;
+    }
 }
