@@ -24,6 +24,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/StringData/StringData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Intdata/Intdata.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Discoooo.cs" />
       </list>
     </option>
   </component>
@@ -66,7 +67,7 @@
       <updated>1598671311941</updated>
       <workItem from="1598671379770" duration="1857000" />
       <workItem from="1598921544776" duration="998000" />
-      <workItem from="1599030503298" duration="6329000" />
+      <workItem from="1599030503298" duration="7356000" />
     </task>
     <servers />
   </component>
