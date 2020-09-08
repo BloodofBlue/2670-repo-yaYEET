@@ -15,6 +15,7 @@
           <e p="Intdata" t="Include">
             <e p="Intdata.cs" t="Include" />
           </e>
+          <e p="NewCharacterController.cs" t="Include" />
           <e p="StringData" t="Include">
             <e p="StringData.cs" t="Include" />
           </e>
