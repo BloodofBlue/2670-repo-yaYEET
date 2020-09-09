@@ -17,6 +17,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StringData/StringData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ImageBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -29,6 +30,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Discoooo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NewCharacterController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ImageBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -73,7 +75,8 @@
       <workItem from="1598921544776" duration="998000" />
       <workItem from="1599030503298" duration="7356000" />
       <workItem from="1599369440441" duration="1466000" />
-      <workItem from="1599538996664" duration="1243000" />
+      <workItem from="1599538996664" duration="1847000" />
+      <workItem from="1599623599805" duration="167000" />
     </task>
     <servers />
   </component>
