@@ -31,6 +31,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NewCharacterController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ImageBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Vector3Data.cs" />
       </list>
     </option>
   </component>
@@ -77,6 +78,7 @@
       <workItem from="1599369440441" duration="1466000" />
       <workItem from="1599538996664" duration="1847000" />
       <workItem from="1599623599805" duration="167000" />
+      <workItem from="1599716103786" duration="88000" />
     </task>
     <servers />
   </component>
