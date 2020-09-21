@@ -9,7 +9,8 @@ public class NewCharacterController : MonoBehaviour
     private CharacterController controller;
     private Vector3 movement;
 
-    public float moveSpeed = 5f, rotateSpeed = 120f, gravity = -9.81f, jumpForce = 30f;
+    public float moveSpeed, rotateSpeed = 120f, gravity = -9.81f, jumpForce = 30f;
+    public FloatData moveSpeedNormal, moveSpeedFast;
     private float yVar;
     public int jumpCountMax = 2;
     private int jumpCount;
@@ -22,6 +23,15 @@ public class NewCharacterController : MonoBehaviour
 
     private void Update()
     {
+        if (Input.GetKey(KeyCode.LeftShift))
+        {
+            moveSpeed = moveSpeedFast.value;
+        }
+        else
+        {
+            moveSpeed = moveSpeedNormal.value;
+        }
+        
         var vInput = Input.GetAxis("Vertical")*moveSpeed;
         movement.Set(vInput,yVar,0 );
 

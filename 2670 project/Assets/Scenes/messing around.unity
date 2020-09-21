@@ -508,15 +508,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 1722881492}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e64f1455b5290546845d7fe0df6b706, type: 3}
+  m_Script: {fileID: 11500000, guid: ed27a9c4d7bf5a644958c88900fd586a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  moveSpeed: 0
+  rotateSpeed: 120
   gravity: -9.81
-  moveSpeed: 3
-  fastMoveSpeed: 0
-  jumpForce: 1
+  jumpForce: 30
+  moveSpeedNormal: {fileID: 11400000, guid: 16397e9fc5eea76498354d5edd308835, type: 2}
+  moveSpeedFast: {fileID: 11400000, guid: af325e20d7d59474cad45de5b4f75fb4, type: 2}
   jumpCountMax: 2
-  rotateSpeed: 3
 --- !u!143 &1722881494
 CharacterController:
   m_ObjectHideFlags: 0

@@ -32,8 +32,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ImageBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Vector3Data.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/trash.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/NewCharacterController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Notes.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NewCharacterController.cs" />
       </list>
     </option>
   </component>
@@ -84,6 +84,7 @@
       <workItem from="1599802061873" duration="53000" />
       <workItem from="1600230663654" duration="3666000" />
       <workItem from="1600491747312" duration="202000" />
+      <workItem from="1600654307580" duration="1725000" />
     </task>
     <servers />
   </component>
