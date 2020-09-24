@@ -17,6 +17,9 @@
           <e p="Intdata" t="Include">
             <e p="Intdata.cs" t="Include" />
           </e>
+          <e p="Lerp.cs" t="Include" />
+          <e p="LookAt.cs" t="Include" />
+          <e p="MoveLocator.cs" t="Include" />
           <e p="NewCharacterController.cs" t="Include" />
           <e p="Notes.cs" t="Include" />
           <e p="StringData" t="Include">
