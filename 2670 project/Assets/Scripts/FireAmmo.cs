@@ -1,18 +1,14 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class FireAmmo : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public UnityEvent mouseDown;
+    private void OnMouseDown()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        mouseDown.Invoke();
     }
 }

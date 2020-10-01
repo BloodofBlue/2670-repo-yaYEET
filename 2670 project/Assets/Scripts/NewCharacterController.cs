@@ -14,7 +14,8 @@ public class NewCharacterController : MonoBehaviour
     private float yVar;
     public int jumpCountMax = 2;
     private int jumpCount;
-    
+    public Intdata canJump;
+
 
     private void Start()
     {
@@ -46,7 +47,7 @@ public class NewCharacterController : MonoBehaviour
             jumpCount = 0;
         }
 
-        if (Input.GetButtonDown("Jump") && jumpCount < jumpCountMax)
+        if (Input.GetButtonDown("Jump") && jumpCount < jumpCountMax && canJump.value > 0)
         {
             yVar = jumpForce;
             jumpCount++;

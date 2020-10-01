@@ -10,6 +10,7 @@
         <e p="Scripts" t="Include">
           <e p="ApplyForce.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
+          <e p="FireAmmo.cs" t="Include" />
           <e p="FloatData" t="Include">
             <e p="FloatData.cs" t="Include" />
           </e>
@@ -22,6 +23,9 @@
           <e p="MoveLocator.cs" t="Include" />
           <e p="NewCharacterController.cs" t="Include" />
           <e p="Notes.cs" t="Include" />
+          <e p="PlayerDeath.cs" t="Include" />
+          <e p="SelfDestruct.cs" t="Include" />
+          <e p="StartSettings.cs" t="Include" />
           <e p="StringData" t="Include">
             <e p="StringData.cs" t="Include" />
           </e>
