@@ -10,7 +10,7 @@ public class Vector3Data : ScriptableObject
         transformObj.position = value;
     }
 
-    public void ChangeValueFromTransform(Transform transformObj)
+    public void ChangeValueFromPosition(Transform transformObj)
     {
         value = transformObj.position;
     }

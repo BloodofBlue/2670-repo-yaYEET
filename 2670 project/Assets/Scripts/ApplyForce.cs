@@ -6,16 +6,15 @@ using UnityEngine;
 public class ApplyForce : MonoBehaviour
 {
     private Rigidbody rBody;
-    private float force = 30f;
+    public float force = 30f;
+    public Vector3Data fireDirection;
     
     // Start is called before the first frame update
     void Start()
     {
         rBody = GetComponent<Rigidbody>();
-        var forceDirection = new Vector3(force,0,0);
+        var forceDirection = fireDirection.value;
         //forceDirection needs to be based on Player rotation
-        rBody.AddRelativeForce(forceDirection);
+        rBody.AddRelativeForce(forceDirection * 100);
     }
-    
-    //need a firing method
 }
