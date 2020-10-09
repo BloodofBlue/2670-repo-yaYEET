@@ -15,6 +15,6 @@ public class ApplyForce : MonoBehaviour
         rBody = GetComponent<Rigidbody>();
         var forceDirection = fireDirection.value;
         //forceDirection needs to be based on Player rotation
-        rBody.AddRelativeForce(forceDirection * 100);
+        rBody.AddRelativeForce(forceDirection);
     }
 }

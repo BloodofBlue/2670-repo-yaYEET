@@ -4,11 +4,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class FireAmmo : MonoBehaviour
+public class ClickEvents : MonoBehaviour
 {
-    public UnityEvent mouseDown;
+    public UnityEvent mouseDownEvent;
     private void OnMouseDown()
     {
-        mouseDown.Invoke();
+        mouseDownEvent.Invoke();
     }
 }

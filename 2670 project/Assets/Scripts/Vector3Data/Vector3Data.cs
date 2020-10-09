@@ -10,7 +10,7 @@ public class Vector3Data : ScriptableObject
         transformObj.position = value;
     }
 
-    public void ChangeValueFromPosition(Transform transformObj)
+    public void SetValueFromPosition(Transform transformObj)
     {
         value = transformObj.position;
     }
@@ -18,6 +18,11 @@ public class Vector3Data : ScriptableObject
     public void ChangeVector3Data(Vector3Data vector3DataObj)
     {
         vector3DataObj.value = value;
+    }
+
+    public void SetValueFromRotation(Transform obj)
+    {
+        value = obj.eulerAngles;
     }
 
 }

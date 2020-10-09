@@ -786,8 +786,8 @@ MonoBehaviour:
   constantEvent:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11400000, guid: d95f69371838b3942a6ded046880b6c8, type: 2}
-        m_MethodName: ChangeValueFromRotation
+      - m_Target: {fileID: 11400000, guid: 31956cc0bb2ceb94db624ba48f7722dc, type: 2}
+        m_MethodName: SetValueFromRotation
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 1253912913}
@@ -887,6 +887,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   prefab: {fileID: 71465347224268021, guid: 4b3db4b5c0484cf408d0fbc11b5ea682, type: 3}
+  rotationDirection: {fileID: 11400000, guid: 31956cc0bb2ceb94db624ba48f7722dc, type: 2}
 --- !u!1 &1505549261
 GameObject:
   m_ObjectHideFlags: 0
@@ -1023,8 +1024,8 @@ GameObject:
   - component: {fileID: 1577155542}
   - component: {fileID: 1577155541}
   - component: {fileID: 1577155545}
-  - component: {fileID: 1577155546}
   - component: {fileID: 1577155547}
+  - component: {fileID: 1577155546}
   m_Layer: 0
   m_Name: ground
   m_TagString: Untagged
@@ -1141,10 +1142,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1577155540}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c7f16e07205eeb94d867a1ba7e37c280, type: 3}
+  m_Script: {fileID: 11500000, guid: aa1231f0a2dea3d4cb6d58494d160ab3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mouseDown:
+  mouseDownEvent:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1266494500}

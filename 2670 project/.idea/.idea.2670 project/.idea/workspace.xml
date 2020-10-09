@@ -17,10 +17,9 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewCharacterController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ClickEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveLocator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Notes.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FireAmmo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LookAt.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intdata/Intdata.cs" root0="FORCE_HIGHLIGHTING" />
@@ -47,15 +46,16 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Lerp.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LookAt.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FireAmmo.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Instancer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SelfDestruct.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NewCharacterController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StartSettings.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerDeath.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MoveLocator.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ConstantEvent.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Vector3Data/Vector3Data.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Vector3Data/QuaternionData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ClickEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Instancer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Vector3Data/Vector3Data.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ApplyForce.cs" />
       </list>
     </option>
@@ -116,6 +116,7 @@
       <workItem from="1601584643523" duration="3845000" />
       <workItem from="1602047963960" duration="3173000" />
       <workItem from="1602065054882" duration="588000" />
+      <workItem from="1602209350491" duration="2450000" />
     </task>
     <servers />
   </component>
