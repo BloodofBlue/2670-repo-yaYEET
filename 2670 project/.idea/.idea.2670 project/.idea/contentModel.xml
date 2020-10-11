@@ -12,6 +12,7 @@
           <e p="CharacterMover.cs" t="Include" />
           <e p="ClickEvents.cs" t="Include" />
           <e p="ConstantEvent.cs" t="Include" />
+          <e p="Debugger.cs" t="Include" />
           <e p="FloatData" t="Include">
             <e p="FloatData.cs" t="Include" />
           </e>

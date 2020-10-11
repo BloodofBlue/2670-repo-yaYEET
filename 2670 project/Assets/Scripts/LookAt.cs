@@ -7,7 +7,7 @@ public class LookAt : MonoBehaviour
 {
     public Transform lookobj;
 
-    private void Update()
+    public void Look()
     {
         transform.LookAt(lookobj);
         var transformRotation = transform.eulerAngles;
