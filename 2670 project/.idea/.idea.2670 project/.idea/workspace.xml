@@ -21,7 +21,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveLocator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LookAt.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intdata/Intdata.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lerp.cs" root0="FORCE_HIGHLIGHTING" />
@@ -50,7 +49,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/NewCharacterController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StartSettings.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerDeath.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MoveLocator.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ConstantEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Vector3Data/QuaternionData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ClickEvents.cs" />
@@ -59,6 +57,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/LookAt.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ApplyForce.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Debugger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MoveLocator.cs" />
       </list>
     </option>
   </component>
@@ -121,7 +120,7 @@
       <workItem from="1602209350491" duration="2450000" />
       <workItem from="1602303350883" duration="250000" />
       <workItem from="1602303661939" duration="892000" />
-      <workItem from="1602392621936" duration="1246000" />
+      <workItem from="1602392621936" duration="3935000" />
     </task>
     <servers />
   </component>

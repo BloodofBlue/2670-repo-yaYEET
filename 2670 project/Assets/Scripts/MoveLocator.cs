@@ -6,7 +6,7 @@ using UnityEngine;
 public class MoveLocator : MonoBehaviour
 {
     private Camera cam;
-    public Transform pointObj;
+    public Vector3Data locationData;
     private void Start()
     {
         cam = Camera.main;
@@ -16,7 +16,7 @@ public class MoveLocator : MonoBehaviour
     {
         if (Physics.Raycast(cam.ScreenPointToRay(Input.mousePosition), out var hit, 100))
         {
-            pointObj.position = hit.point;
+            locationData.value = hit.point;
         }
     }
 }
