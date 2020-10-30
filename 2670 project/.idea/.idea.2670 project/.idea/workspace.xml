@@ -81,6 +81,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/Vector3Data.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/CharacterStateMachineData.cs" />
       </list>
     </option>
   </component>
@@ -146,6 +147,7 @@
       <workItem from="1602392621936" duration="3935000" />
       <workItem from="1603255578511" duration="1870000" />
       <workItem from="1603407096575" duration="1669000" />
+      <workItem from="1604032568811" duration="237000" />
     </task>
     <servers />
   </component>
