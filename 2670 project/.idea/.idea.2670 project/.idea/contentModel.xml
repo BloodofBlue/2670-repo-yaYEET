@@ -29,9 +29,12 @@
           </e>
           <e p="Scriptable Objects" t="Include">
             <e p="CharacterMouseLookAt.cs" t="Include" />
+            <e p="CharacterStateMachineData.cs" t="Include" />
             <e p="Debugger.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
+            <e p="GameAction.cs" t="Include" />
             <e p="IntData.cs" t="Include" />
+            <e p="StringListData.cs" t="Include" />
             <e p="Vector3Data.cs" t="Include" />
           </e>
         </e>
