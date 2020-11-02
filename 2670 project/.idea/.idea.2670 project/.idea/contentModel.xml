@@ -14,9 +14,11 @@
           </e>
           <e p="Behaviours" t="Include">
             <e p="ApplyForce.cs" t="Include" />
+            <e p="AttatchOnTrigger.cs" t="Include" />
             <e p="CharacterBehaviour.cs" t="Include" />
             <e p="CharacterBehaviourWithKnockback.cs" t="Include" />
             <e p="CharacterMoveHV.cs" t="Include" />
+            <e p="CharacterWithStates.cs" t="Include" />
             <e p="Coroutines.cs" t="Include" />
             <e p="Instancer.cs" t="Include" />
             <e p="LookAtBehaviour.cs" t="Include" />
