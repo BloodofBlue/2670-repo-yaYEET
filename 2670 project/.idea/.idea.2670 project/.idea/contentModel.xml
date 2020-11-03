@@ -20,7 +20,9 @@
             <e p="CharacterMoveHV.cs" t="Include" />
             <e p="CharacterWithStates.cs" t="Include" />
             <e p="Coroutines.cs" t="Include" />
+            <e p="GameActionHandler.cs" t="Include" />
             <e p="Instancer.cs" t="Include" />
+            <e p="InvokeBehaviour.cs" t="Include" />
             <e p="LookAtBehaviour.cs" t="Include" />
             <e p="MonoEventsBehaviour.cs" t="Include" />
             <e p="MouseEventsBehaviour.cs" t="Include" />
