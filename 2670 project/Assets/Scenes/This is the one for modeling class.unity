@@ -215,6 +215,11 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 8e4a6bb6ac5196c49a106df33c6b38af, type: 2}
+    - target: {fileID: -6057140222963153312, guid: e26c9fc09b4ac3444b98e47c249caa87,
+        type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: e26c9fc09b4ac3444b98e47c249caa87,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -223,7 +228,7 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: e26c9fc09b4ac3444b98e47c249caa87,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.29
+      value: 1.18
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: e26c9fc09b4ac3444b98e47c249caa87,
         type: 3}
