@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 922090ff8b529d848b5233b83fa6096e, type: 3}
   m_Name: JumpMax
   m_EditorClassIdentifier: 
-  value: 0
+  value: 2
