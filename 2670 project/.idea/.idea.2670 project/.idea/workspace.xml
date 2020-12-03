@@ -17,7 +17,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviours/MouseEventsBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviours/InvokeBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviours/ApplyForce.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviours/PlayerBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviours/PlayerBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AI/AIPatrol.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviours/PointFromMouse.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/CharacterMouseLookAt.cs" root0="FORCE_HIGHLIGHTING" />
@@ -77,7 +77,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Behaviours/LookAtBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Behaviours/MonoEventsBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Behaviours/MouseEventsBehaviour.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviours/PlayerBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Behaviours/PointFromMouse.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Behaviours/SelfDestruct.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Behaviours/TriggerEvents.cs" />
@@ -93,6 +92,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Behaviours/CharacterWithStates.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Behaviours/GameActionHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Behaviours/InvokeBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviours/PlayerBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -161,6 +161,7 @@
       <workItem from="1604032568811" duration="1295000" />
       <workItem from="1604289543562" duration="530000" />
       <workItem from="1604380210714" duration="813000" />
+      <workItem from="1606961312150" duration="2359000" />
     </task>
     <servers />
   </component>

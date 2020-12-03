@@ -11,7 +11,7 @@ public class PlayerBehaviour : MonoBehaviour
     public Vector3 lookDirection, finalDirection;
     private float yVar;
     private bool canMove = true, canJump = true, canSprint = true;
-    private float gravity = -9.81f;
+    public float gravity = -9.81f;
     public FloatData normalSpeed, fastSpeed, jumpForce;
     private FloatData currentSpeed;
     public IntData playerJumpMax;
@@ -71,7 +71,7 @@ public class PlayerBehaviour : MonoBehaviour
                 transform.rotation = Quaternion.LookRotation(finalDirection);
             }
 
-            movement.Set(hInput, yVar, vInput);
+            movement.Set(hInput, yVar, 0);
             controller.Move(movement);
         }
     }
